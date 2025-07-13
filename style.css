@@ -7,6 +7,15 @@ body {
 .page-title {
   color: #ffffff;
   margin: 30px 20px 30px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.link-list {
+  border: 3px solid #3a3a3a;
+  box-sizing: border-box;
+  width: 300px;
+  margin: auto;
 }
 
 .link-list li {
