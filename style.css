@@ -4,11 +4,16 @@ body {
   color: #e0e0e0;
 }
 
-.page-title {
+.page-title,
+.recipe-title {
   color: #ffffff;
   margin: 30px 20px 30px;
   text-align: center;
   margin-top: 100px;
+}
+
+.recipe-title {
+  margin-top: 30px;
 }
 
 .link-list {
@@ -22,6 +27,19 @@ body {
   margin: 12px auto 12px;
 }
 
-.link-list a {
+.link-list a,
+.home-link {
   color: #b0b0b0;
+}
+
+.home-link {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 20px 20px 0;
+  display: inline-block;
+}
+
+.recipe-image {
+  margin: 30px auto 20px;
+  display: block;
 }
