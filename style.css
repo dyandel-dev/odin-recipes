@@ -1,0 +1,18 @@
+body {
+  font-family: "Courier New", monospace;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 30px 20px 30px;
+}
+
+.link-list li {
+  margin: 12px auto 12px;
+}
+
+.link-list a {
+  color: #b0b0b0;
+}
